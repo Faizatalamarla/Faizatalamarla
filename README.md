@@ -11,7 +11,7 @@
 
 - 🔭 I have worked on: **AI Projects, Data Science Models, and Web Applications**
 - 🌱 I’m learning: **Cloud Computing, Advanced Machine Learning**
-- 💬 Ask me about: Python, C/C++, AI/ML, and Cloud Tools
+- 💬 Ask me about: Java, Python, C/C++, AI/ML, and Cloud Tools
 - 📫 Reach me at: **[talamarlafaiza08@gmail.com](mailto:talamarlafaiza08@gmail.com)**
 - 💼 LinkedIn: [faiza-talamarla](https://www.linkedin.com/in/faiza-talamarla)
 
